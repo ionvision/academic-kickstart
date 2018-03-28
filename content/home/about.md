@@ -17,12 +17,12 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
+  course = "PhD in Electrical Engineering"
   institution = "The City University of New York"
   year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
+  course = "BEng in Control Science and Engineering"
   institution = "Nanjing University of Aeronautics and Astronautics"
   year = 2013
  
