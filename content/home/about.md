@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-04-20T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computer Vision",
+    "Machine Learning",
+    "Image Processing"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  institution = "The City University of New York"
+  year = 2013-Now
 
 [[education.courses]]
   course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  institution = "Nanjing University of Aeronautics and Astronautics"
+  year = 2009-2013
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+For now I am a Ph.D. candidate in [Media Lab](http://media-lab.ccny.cuny.edu) of [The City College](http://www.ccny.cuny.edu), [City University of New York](http://cuny.edu), and working with Prof. [Yingli Tian](http://www-ee.ccny.cuny.edu/www/web/yltian/home.html) in the intersection of Deep Learning, Computer Vision, and Image Processing. Before joining Media Lab, I obtained the B.E. degree from [Nanjing University of Aeronautics and Astronautics](http://iao.nuaa.edu.cn/) in 2013.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Currently my research interests mainly focus on inference and learning for scene text detection and recognition in the wild, in the presence of image degradations like blur, distortion, noise, etc.
