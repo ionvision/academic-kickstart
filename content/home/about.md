@@ -28,7 +28,7 @@ weight = 5
  
 +++
 
-## Biography
+# Biography
 
 For now I am a Ph.D. candidate in [Media Lab](http://media-lab.ccny.cuny.edu) of [The City College](http://www.ccny.cuny.edu), [City University of New York](http://cuny.edu), and working with Prof. [Yingli Tian](http://www-ee.ccny.cuny.edu/www/web/yltian/home.html) in the intersection of Deep Learning, Computer Vision, and Image Processing. Before joining Media Lab, I obtained the B.E. degree from [Nanjing University of Aeronautics and Astronautics](http://iao.nuaa.edu.cn/) in 2013.
 
