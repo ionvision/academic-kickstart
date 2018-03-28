@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-47201105-1"
+googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -50,21 +50,21 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Xuejian Rong"
-  role = "PhD Candidate in Electrical Engineering"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "The City University of New York", url = "" } ]
+  organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "xrong@ccny.cuny.edu"
-  address = "ST512, Steinman Hall, 160 Convent Ave., New York, NY 10031, USA"
-  office_hours = "Weekday 10:00 to 18:00 or email for appointment"
-  # phone = "212-650-8917"
-  # skype = "jastarex"
-  # telegram = "xrong"
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "888 888 88 88"
+  skype = "echo123"
+  telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -217,22 +217,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:xrong@ccny.cuny.edu"
+    link = "mailto:test@example.org"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "https://twitter.com/jastarex"
+    link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=lhAJNwkAAAAJ&hl=en"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "https://github.com/ionvision"
+    link = "//github.com/gcushen"
 
 
 # Navigation Links
