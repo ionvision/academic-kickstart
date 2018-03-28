@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "The City University of New York", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "xrong@ccny.cuny.edu"
   address = "ST512, Steinman Hall, 160 Convent Ave., New York, NY 10031, USA"
   office_hours = "Weekday 10:00 to 18:00 or email for appointment"
