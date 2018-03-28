@@ -19,12 +19,12 @@ weight = 5
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
   institution = "The City University of New York"
-  year = 2013-Now
+  year = 2018
 
 [[education.courses]]
   course = "BSc in Artificial Intelligence"
   institution = "Nanjing University of Aeronautics and Astronautics"
-  year = 2009-2013
+  year = 2013
  
 +++
 
